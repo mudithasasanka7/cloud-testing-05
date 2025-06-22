@@ -19,7 +19,7 @@ function Login() {
 
   return (
     <div>
-      <h2>Login Muditha sasanka</h2>
+      <h2>Login Muditha sasanka kodikara</h2>
       <form onSubmit={handleLogin}>
         <input
           type="text"
